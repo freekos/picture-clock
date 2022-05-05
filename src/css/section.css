@@ -1,0 +1,11 @@
+.section {
+    display: block;
+    width: 1450px;
+    max-width: 100%;
+    height: 100vh;
+
+    margin: 0 auto;
+
+    background:rgb(255, 120, 71);
+    border: 2px solid rgb(253, 96, 38);
+}

@@ -1,0 +1,38 @@
+.timer {
+    display: block;
+    width: 400px;
+    height: 100px;
+
+    margin: 0 auto;
+    margin-bottom:  25px;
+}
+
+.timer_text {
+    display: block;
+    width: 100%;
+    height: 30px;
+
+    margin-bottom: 15px;
+}
+
+.timer_p {
+    font-size: 23px;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    text-align: center;
+}
+
+.timer_times {
+    display: block;
+    width: 100%;
+    height: 70px;
+}
+
+.timer_time {
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+
+    text-align: center;
+}

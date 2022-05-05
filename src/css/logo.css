@@ -1,0 +1,17 @@
+.logo {
+    display: block;
+    width: 400px;
+    max-width: 100%;
+    height: 55px;
+
+    margin: 0 auto;
+    margin-top: 75px;
+    margin-bottom: 25px;
+}
+
+.logo_p {
+    max-width: 100%;
+
+    font-size: 47px;
+    font-weight: 300;
+}
